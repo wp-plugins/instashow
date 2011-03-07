@@ -32,7 +32,7 @@ Go to http://freytag-film.com/2011-03-instashow/ for a demo.
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.1.1 =
 * FIXED: bug with missing files
 
 = 1.0 =
