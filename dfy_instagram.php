@@ -4,7 +4,7 @@
 	 Plugin URI: http://freytag-film.com/
 	 Description: Display your images from <a href="http://instagr.am/" target="_blank">Instagram</a> - <a href="http://freytag-film.com/" target="_blank>Written by Daniel Freytag</a>
 	 Author: Daniel Freytag
-	 Version: 1.0
+	 Version: 1.0.1
 	 Author URI: http://freytag-film.com/
 	 */  
 	 

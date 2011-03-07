@@ -21,9 +21,9 @@ This is insta.SHOW, a plugin for displaying your instagram content in a wordpres
 5. Place `[instagram]` in any post or page.
 6. Done!
 
-== Frequently Asked Questions ==
+== Demo ==
 
-Please email me for questions at: instashow@freytag-film.com
+Go to http://freytag-film.com/2011-03-instashow/ for a demo.
 
 == Screenshots ==
 
@@ -32,8 +32,11 @@ Please email me for questions at: instashow@freytag-film.com
 
 == Changelog ==
 
+= 1.0.1 =
+* FIXED: bug with missing folders
+
 = 1.0 =
-* stable version with completely new design!
+* ADDED: new design
 
 = 0.9.2 =
 * fixed several bugs
