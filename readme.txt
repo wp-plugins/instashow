@@ -39,7 +39,7 @@ Go to http://freytag-film.com/2011-03-instashow/ for a demo.
 * ADDED: new design
 
 = 0.9.2 =
-* fixed several bugs
+* FIXED: several bugs
 
 = 0.9.1 =
 * Screenshots added
