@@ -1,10 +1,10 @@
 <?php  
     /* 
-	 Plugin Name: InstaSHOW 
+	 Plugin Name: Insta.SHOW 
 	 Plugin URI: http://freytag-film.com/
 	 Description: Display your images from Instagram
 	 Author: Daniel Freytag - http://freytag-film.com/
-	 Version: 0.9 
+	 Version: 0.9.1
 	 Author URI: http://freytag-film.com/
 	 */  
 	 
@@ -14,7 +14,7 @@
 	}
 
 	function dfy_ADDinsta_action() {  
-		add_options_page("InstaSHOW", "InstaSHOW", 1, "instaSHOW", "dfy_SHOWinsta_admin"); 
+		add_options_page("Insta.SHOW", "Insta.SHOW", 1, "insta.SHOW", "dfy_SHOWinsta_admin"); 
 	//	add_option("dfy_InstaSHOW_user", "freytag", "", "no");
 	//	add_option("dfy_InstaSHOW_userID", "1731242", "", "no");
 	}
