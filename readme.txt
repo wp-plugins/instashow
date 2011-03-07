@@ -4,7 +4,7 @@ Donate link: http://freytag-film.com/2011-03-instashow/
 Tags: Instagram, pictures, gallery, plugin, insta.SHOW, insta, gram, images, display, manage
 Requires at least: 2.0
 Tested up to: 3.1
-Stable tag: 3.1
+Stable tag: 1.1
 
 This is insta.SHOW, a plugin for displaying your instagram content in a wordpress page!
 
@@ -31,6 +31,9 @@ Go to http://freytag-film.com/2011-03-instashow/ for a demo.
 2. Screenshot of the backend.
 
 == Changelog ==
+
+= 1.1.1 =
+* FIXED: ...
 
 = 1.1 =
 * FIXED: bug with missing files
