@@ -32,12 +32,11 @@ Please email me for questions at: insta.SHOW@freytag-film.com
 
 == Changelog ==
 
+= 0.9.1 =
+* Screenshots added
 
 = 0.9 =
 * Beta release
-
-= 0.9.1 =
-* Screenshots added
 
 == Upgrade Notice ==
 
