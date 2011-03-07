@@ -1,6 +1,6 @@
 === insta.SHOW ===
 Contributors: freytag
-Donate link: http://freytag-film.com/2011-03-instashow/
+Donate link: http://freytag-film.com/2011-03-insta.SHOW/
 Tags: Instagram, pictures, gallery, plugin, insta.SHOW, insta, gram, images, display, manage
 Requires at least: 2.0
 Tested up to: 3.1
@@ -23,7 +23,7 @@ This is insta.SHOW, a plugin for displaying your instagram content in a wordpres
 
 == Frequently Asked Questions ==
 
-Please email me for questions at: instashow@freytag-film.com
+Please email me for questions at: insta.SHOW@freytag-film.com
 
 == Screenshots ==
 
