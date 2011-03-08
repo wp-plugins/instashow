@@ -30,7 +30,7 @@
 		
 	// Output for dev. reasons:	
 		//	echo "<pre>";
-			print_r(($keycode));
+		//	print_r(($keycode));
 		//	echo "</pre>";
 			
 	// fetch ID+Token!! (important)
@@ -60,9 +60,9 @@
 		
 		<table>
 		<tr><td width="160">Instagram username<br>and password:<br><br><br><br><br></td>
-			<td><label><input name="user" type="text" size="30" maxlength="30" value="' . get_option("dfy_InstaSHOW_user") . '"><br>
+			<td><input name="user" type="text" size="30" maxlength="30" value="' . get_option("dfy_InstaSHOW_user") . '"><br>
 						<input name="password" type="password" size="30" maxlength="30"><br>
-				<small>Just enter your Instagram username, which you want to use with this plugin.</small></label><br><br>
+				<small>Just enter your Instagram username, which you want to use with this plugin.</small><br><br>
 				<hr color="dddddd" size="1"><br></td></tr>
 	
 	
