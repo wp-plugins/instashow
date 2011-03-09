@@ -12,7 +12,7 @@ This is insta.SHOW, a plugin for displaying your instagram content in a wordpres
 
 This is insta.SHOW, a plugin for displaying your instagram content in a wordpress page!
 
-Simply install this plugin into your Wordpress website, make some settings and display your wonderful photos from http://instagr.am/
+Simply install this plugin into your Wordpress website, make some settings and display your wonderful photos from http://instagr.am/ !
 
 
 == Installation ==
