@@ -94,7 +94,7 @@
 		return $content;
 	}
 	
-	register_activation_hook( __FILE__, 'dfy_ADDinsta_activationping' );
+	add_action('activate_plugin', 'dfy_ADDinsta_activationping', 10 );
 	add_filter( 'plugin_action_links', 'dfy_pluginspage_link', 10, 2 );
 	add_action('admin_menu', 'dfy_ADDinsta_action'); 
 	add_filter('the_content', 'dfy_insta_update');
